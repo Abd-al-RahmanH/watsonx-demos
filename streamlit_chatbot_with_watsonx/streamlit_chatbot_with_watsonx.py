@@ -72,9 +72,9 @@ if prompt := st.chat_input("Say something"):
     with st.chat_message("user"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
-
+#[INST]<<SYS>>用中文回答以下问题<<SYS>>
     prompttemplate = f"""
-    [INST]<<SYS>>用中文回答以下问题<<SYS>>
+    [INST]<<SYS>>Respond in English<<SYS>>
     {prompt}
     [/INST]
     """
