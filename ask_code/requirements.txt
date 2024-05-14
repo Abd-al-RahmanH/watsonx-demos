@@ -1,0 +1,13 @@
+streamlit
+subprocess
+orjson
+ibm-watsonx-ai
+pandas
+tempfile
+pathlib
+json
+gen_java
+gen_spec
+docx
+dotenv
+ssl
