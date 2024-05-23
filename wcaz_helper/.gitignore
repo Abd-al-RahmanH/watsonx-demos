@@ -1,0 +1,13 @@
+.env
+.chroma
+.streamlit
+__pycache__
+*.xml
+*.sql
+*.xls
+*.xlsx
+*.zip
+*.csv
+send to hsbc
+wcaout
+zip
