@@ -71,7 +71,8 @@ update the API call to IBM public cloud version.
     - chat to know the asset status from maximo
    
     - API_KEY=be2PIyqJbKm9LwNDRvWeA8Bp2Dc2TQt30rw2OAd-PPKf
-PROJECT_ID=5599ca44-2558-4284-94d4-0896b789efc9
+    - PROJECT_ID=5599ca44-2558-4284-94d4-0896b789efc9
+ 
     - chat to operate the maximo
     - generate summarize of the asset in environment
     - generate report base on asset context
